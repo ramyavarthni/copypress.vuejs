@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-  </div>
+<div id= "app">
+</div>
 </template>
 
 <script>
